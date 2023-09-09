@@ -4,7 +4,7 @@
 ## 🐄Table of Content
 
 <!-- - [Growth Trend in the Field of LLM-based Autonomous Agent](#-growth-trend-of-llm-based-autonomous-agent)-->
-- [🤖 Construction of LLM-based Autonomous Agent](#-construction-of-llm-based-autonomous-agent)
+- [🤖 Construction of LLM-based Generative Autonomous Agent](#-construction-of-llm-based-Generative-autonomous-agent)
 - [📍 Applications of LLM-based Generative Autonomous Agent](#-applications-of-llm-based-Generative-autonomous-agent)
 - [📊 Evaluation on LLM-based Generative Autonomous Agent](#-evaluation-on-llm-based-Generative-autonomous-agent)
 - [🌐 More Comprehensive Summarization](#-more-comprehensive-summarization)
